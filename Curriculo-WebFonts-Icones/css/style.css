@@ -47,3 +47,50 @@ h2 a, h2 a:visited {
 h1:hover a, h2:hover a {
   color: darkblue;
 }
+
+/* Classe btn - utilizada no botão voltar no arquivo resumo.html */
+.btn {
+  font-size:1.3rem;
+}
+
+/* btn: hover - restringe o comportamento de hover apenas a classe btn */
+.btn:hover{
+  color: white;
+  background-color: darkblue;
+  text-decoration:none;
+}
+
+/* Seletor de ID para a seção da página "social" */
+#social{
+  text-align:center;
+  color:white;
+  font-size:2rem;
+}
+
+/* Cores do ícones, restringindo para o ícone do facebook - observe que a classe fa-square-facebook foi especificado pelo fonts-icons*/
+#social .fa-square-linkedin{
+  color:navy;
+}
+
+/* Cores do ícones, restringindo para o ícone do twitter - idem */
+#social .fa-square-twitter {
+  color:dodgerblue;
+}
+
+/* Cores do ícones, restringindo para o ícone do linkedin - idem */
+#social .fa-linkedin {
+  color:navy;
+}
+
+/* O mídia print deve ser inserido no CSS, informando como a página 
+deve ser formatada para impressão */
+@media print {
+	h1, body {
+	color: black;
+	font-family: Times, serif;
+}
+
+h1#person { // PERSON TEM QUE ESTAR OBRIGATORIAMENTE NA H1 PARA FUNCIONAR
+	text-align: left;
+
+}
