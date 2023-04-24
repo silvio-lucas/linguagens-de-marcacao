@@ -1,0 +1,21 @@
+Seletores:
+
+1) Elemento (h1)
+2) Classe (iniciado por ponto)
+3) ID (# - jogo da velha)
+
+MDN - https://developer.mozilla.org/pt-BR/ (Mozilla Developement Network)
+
+
+CSS - Cascade Style Sheet (ordem):
+    - Importance
+    - Specifity
+    - Source Order
+
+
+    Declaração de autor e de importância normal
+
+    https://userstyles.org (Estilos para o navegador Chrome - espécie de tema - Estilo do usuário)
+
+
+FAZER: ifpb.github.io/exercises (efeito da cascata no CSS - questão 2)

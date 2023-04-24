@@ -1,0 +1,28 @@
+RESOLUCAO DO DESAFIO DO CURRICULO
+
+Material Symbols (Google)
+Google Fonts
+
+
+# para inserir os icones
+material-icons account_cirle
+<div>
+    <p>
+    <span class="material-icons">account_cirle</span>
+    </p>
+</div>
+
+- display in line não funciona com margem
+
+
+- position: relative
+top - 5px
+
+
+# para inser
+
+setion / div / p
+
+<margin-top - somente a parte de cima
+APENAS margin - todas as partes
+
