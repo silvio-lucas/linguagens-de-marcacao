@@ -105,7 +105,7 @@ deve ser formatada para impressão */
 }
 
 /* O Título <h1> de id person deve estar alinhado a esquerda */
-h1#person { // PERSON TEM QUE ESTAR OBRIGATORIAMENTE NA H1 PARA FUNCIONAR
+h1#person { /* PERSON TEM QUE ESTAR OBRIGATORIAMENTE NA H1 PARA FUNCIONAR */
 	text-align: left;
 }
 
