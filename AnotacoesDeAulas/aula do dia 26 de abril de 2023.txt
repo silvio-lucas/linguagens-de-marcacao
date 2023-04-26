@@ -1,0 +1,5 @@
+BOX MODEL
+
+
+- Todo elemento HTML é representado por uma caixa;
+- Padding: é o recuo interno (entre o elemento - conteúdo e a borda do elemento)
