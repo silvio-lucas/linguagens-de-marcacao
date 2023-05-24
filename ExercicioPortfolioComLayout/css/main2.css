@@ -15,22 +15,25 @@
 
 .intro-text {
   text-align: center;
-  height: 100vh; /* FICOU FALTANDO ESTA TAG PARA FUNCIONAR */
-
+  height: 100vh; 
+  /* FICOU FALTANDO A TAG ACIMA PARA FICAR OK. 
+  Informacoes sobre o VH: https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/
+  
   /* FLEX MOVIDO PARA INTRO-TEXT */
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: center;
- /* align-items: center; */
-
+  align-items: center;
 }
 
 
-div {
-  display: block;
-  text-align: center;
+/* ESTA CLASSE NAO FOI NECESSÁRIA POIS APLICAMOS O WIDTH EM
+header .intro-text .btn-intro 
+.btn-intro {
+  width: 280px
 }
+*/
 
 
 body {
@@ -84,6 +87,9 @@ header .intro-text .btn-intro {
   cursor: pointer;
   text-decoration: none;
   text-transform: uppercase;
+  
+  /* determina a largura do botão */
+  width: 200px;
 }
 
 /* Main */
