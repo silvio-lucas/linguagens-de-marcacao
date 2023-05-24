@@ -13,14 +13,16 @@
 }
 
 
-.intro-text > * {
+.intro-text {
   text-align: center;
+  height: 100vh; /* FICOU FALTANDO ESTA TAG PARA FUNCIONAR */
 
   /* FLEX MOVIDO PARA INTRO-TEXT */
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
+  flex-direction: column;
   justify-content: center;
-  align-items: center;
+ /* align-items: center; */
 
 }
 
