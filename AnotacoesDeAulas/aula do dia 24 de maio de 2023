@@ -1,0 +1,10 @@
+GIT
+
+arquivo .gitignore
+- marcar os arquivos que não deverão ser rastreados. Listar nesse arquivo um arquivo por linha (nome + extensao)
+
+
+Github Pages
+- Logar no GitHub
+- Ir em configurações
+- Procurar no menu por pages (lado esquerdo da página)
