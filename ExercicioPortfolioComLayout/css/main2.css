@@ -15,10 +15,11 @@
 
 .intro-text {
   text-align: center;
-  height: 100vh; 
-  /* FICOU FALTANDO A TAG ACIMA PARA FICAR OK. 
-  Informacoes sobre o VH: https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/
   
+   /* FICOU FALTANDO A TAG ACIMA PARA FICAR OK. 
+  Informacoes sobre o VH: https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/ */
+  height: 100vh; 
+ 
   /* FLEX MOVIDO PARA INTRO-TEXT */
   display: flex;
   flex-wrap: wrap;
