@@ -16,11 +16,12 @@
 .intro-text > * {
   text-align: center;
 
+  /* FLEX MOVIDO PARA INTRO-TEXT */
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  */
+
 }
 
 
@@ -44,7 +45,7 @@ header {
   height: 100vh;
   min-height: 400px;
 
- /* FLEX MOVIDO PARA A CLASSE .INTROTEXT
+ /* FLEX MOVIDO PARA A CLASSE .INTRO-TEXT
   display: flex;
   flex-direction: row;
   justify-content: center;
