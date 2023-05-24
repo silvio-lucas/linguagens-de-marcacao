@@ -1,0 +1,26 @@
+BOX MODEL
+
+
+- Todo elemento HTML é representado por uma caixa;
+- Padding: é o recuo interno (entre o elemento - conteúdo e a borda do elemento)
+- Usar inspecionar do Mozilla
+- Tipos de display: bloco / inline
+- É possível mudar o tipo de display. Por exemplo, mudar um link para "display" em bloco (pois
+links são geralmente inline)
+
+- width, margin, high  NÃO FUNCIONA COM DISPLAY inline - apenas para bloco. Para funcionar, é necessário utilizar inline-block!:
+    display: inline-block;
+
+- margem para inline funciona para eixo X - não funciona para eixo Y
+
+- em: element m??? (unidade relativa)
+
+- control D para repetir varias linhas selecionais no VSCode - necessário selecionar a linha antes
+
+
+
+DIGITAR PARA GERAR O CODIGO BASICO HTML:
+
+html:5
+OU
+!

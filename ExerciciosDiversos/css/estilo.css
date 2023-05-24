@@ -1,0 +1,16 @@
+h1{ /* Aplicado diretamente na TAG H1 */
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    background-color: grey;
+}
+.texto{ /* IMPORTANTE: Toda classe precisa iniciar com um PONTO */
+    color:red;
+}
+.italico{ /* IMPORTANTE: Toda classe precisa iniciar com um PONTO */
+        font-style: italic;
+}
+span { /* Tudo que estiver envolvido por SPAN sofrerá a modficação abaixo */
+    color:blue;
+    font-weight: bold;
+}
