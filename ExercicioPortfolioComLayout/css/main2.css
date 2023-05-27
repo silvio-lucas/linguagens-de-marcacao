@@ -12,18 +12,29 @@
   src: local('Montserrat Bold'), local('Montserrat-Bold'), url(../fonts/Montserrat-Bold.ttf) format('truetype');
 }
 
-/* 
-.intro-text > * {
+
+.intro-text {
   text-align: center;
+  
+   /* FICOU FALTANDO A TAG ACIMA PARA FICAR OK. 
+  Informacoes sobre o VH: https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/ */
+  height: 100vh; 
+ 
+  /* FLEX MOVIDO PARA INTRO-TEXT */
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* ESTA CLASSE NAO FOI NECESSÁRIA POIS APLICAMOS O WIDTH EM
+header .intro-text .btn-intro 
+.btn-intro {
+  width: 280px
 }
 */
-
-
-div {
-  display: block;
-  text-align: center;
-}
-
 
 
 body {
@@ -40,11 +51,12 @@ header {
   height: 100vh;
   min-height: 400px;
 
-  /* Display Flex */
+ /* FLEX MOVIDO PARA A CLASSE .INTRO-TEXT
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  */
 }
 
 header .intro-text p, header .intro-text h1 {
@@ -76,6 +88,9 @@ header .intro-text .btn-intro {
   cursor: pointer;
   text-decoration: none;
   text-transform: uppercase;
+  
+  /* determina a largura do botão */
+  width: 200px;
 }
 
 /* Main */
