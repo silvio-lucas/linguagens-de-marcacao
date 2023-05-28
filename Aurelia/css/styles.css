@@ -125,17 +125,6 @@ p {
   object-fit: cover;
 }
 
-/* Classe possivelmente desnecessária */
-/* .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(25, 25, 112, 0.2);
-} */
-
-
 .intro {
   position: relative;
   width: 100%;
@@ -152,6 +141,37 @@ p {
   gap: 3rem;
   min-height: 100vh;
 }
+
+/* GRID para os três projetos */
+main .project {
+  text-align: center;
+}
+
+.project {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  /* grid-template-rows: 1fr 1fr 1fr; */
+  gap: 3rem;
+  min-height: 60vh;
+  align-items: start;
+  align-content: center;
+  margin: 20px;
+}
+
+.project .project-content h1 {
+  font-size: 30px;
+}
+
+.project .project-content p {
+  font-size: 20px;
+}
+
+/* Redimensiona as figuras para 60 pixels */
+.project-content img{
+  width: 60px;
+}
+
 
 .intro-text-content {
   display: flex;
@@ -213,18 +233,6 @@ p {
 }
 
 
-
-
-
-@media print {
-  body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 3rem;
-  }
-}
-
-
-
 /* RODAPÉ */
 footer {
   background-color: #ecece2;
@@ -282,7 +290,15 @@ footer section.social ul li {
 }
 
 
-/* RODAPÉ - @2023 FEITO COM HTML */
+/* RODAPÉ - COPYRIGHT */
 footer section.copyright i.fa-heart {
   color: #f00;
+}
+
+
+@media print {
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3rem;
+  }
 }
