@@ -161,12 +161,11 @@ main .project {
   position: relative;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  /* grid-template-rows: 1fr 1fr 1fr; */
   gap: 3rem;
   min-height: 60vh;
   align-items: start;
   align-content: center;
-  margin: 20px;
+  margin: 25px;
 }
 
 .project .project-content h1 {
