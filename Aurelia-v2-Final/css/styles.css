@@ -311,3 +311,66 @@ footer section.copyright i.fa-heart {
     font-size: 3rem;
   }
 }
+
+
+/* ESTILOS PARA TELAS MENORES QUE 480px */
+@media (max-width: 480px) {
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .main-content h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .intro-text-content h2 {
+    padding-top: 8rem;
+    font-size: 2.5rem;
+  }
+
+  .btn-intro {
+    font-size: 2rem;
+    padding: 0.8rem;
+    text-align: center;
+  }
+
+  .intro-text-sobrenos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .project-content {
+    text-align: center;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .project-content img {
+    width: 30px;
+  }
+
+  /* Tratamento do Rodapé */
+  .social  {
+    display: none;
+  }
+
+  .map-address {
+    display: none;
+  }
+
+  .address p {
+    font-size: 2rem;
+  }
+
+  .copyright {
+    font-size: 1.5rem;
+  }
+
+}
