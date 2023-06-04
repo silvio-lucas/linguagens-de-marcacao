@@ -12,6 +12,13 @@ https://stackoverflow.com/questions/72945402/vs-code-git-extension-errors-and-di
 - Aborting commit due to empty commit message <br>
 https://stackoverflow.com/questions/9725160/aborting-commit-due-to-empty-commit-message (precisa inserir algum comentário durante o COMIT, senão não funciona) <br> <br>
 
+
+# Links Interessantes:
+
+- Reset CSS e Normalize
+https://www.alura.com.br/artigos/o-que-e-reset-css
+
+
 Plugins Interessantes (testados):<br>
 
 - Vscode icons: Cria icones nos arquivos de acordo com a tecnologia que for utilizada no projeto;<br>
