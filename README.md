@@ -19,7 +19,7 @@ https://stackoverflow.com/questions/9725160/aborting-commit-due-to-empty-commit-
 https://www.alura.com.br/artigos/o-que-e-reset-css
 
 
-Plugins Interessantes (testados):<br>
+# Plugins Interessantes (testados):<br>
 
 - Vscode icons: Cria icones nos arquivos de acordo com a tecnologia que for utilizada no projeto;<br>
 - Live server: Servidor web que fica localizado na parte inferior da tela do Vscode - não precisa recarregar o navegador para ver o resultado das modificações feitas;<br>
