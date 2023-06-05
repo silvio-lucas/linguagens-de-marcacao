@@ -30,6 +30,9 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Flexbox: Guia Completo
 https://origamid.com/projetos/flexbox-guia-completo/
 
+- Primeiros passos com a API Google Fonts
+https://developers.google.com/fonts/docs/getting_started?hl=pt-br
+
 
 # Plugins Interessantes (testados):<br>
 
