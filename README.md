@@ -15,23 +15,26 @@ https://stackoverflow.com/questions/9725160/aborting-commit-due-to-empty-commit-
 
 ## Links Interessantes:
 
-- Reset CSS e Normalize
+- Reset CSS e Normalize:
 https://www.alura.com.br/artigos/o-que-e-reset-css
 
-- Guia de unidades no CSS
+- Guia de unidades no CSS:
 https://www.alura.com.br/artigos/guia-de-unidades-no-css
 
-- Curso: Flexbox e layouts responsivos
+- Curso: Flexbox e layouts responsivos:
 https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos
 
-- A complete guide to Flexbox
+- A complete guide to Flexbox:
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-- Flexbox: Guia Completo
+- Flexbox: Guia Completo:
 https://origamid.com/projetos/flexbox-guia-completo/
 
-- Primeiros passos com a API Google Fonts
+- Primeiros passos com a API Google Fonts:
 https://developers.google.com/fonts/docs/getting_started?hl=pt-br
+
+- Markdown Cheat Sheet (a raiz do site também é muito boa):
+https://www.markdownguide.org/cheat-sheet/
 
 
 
