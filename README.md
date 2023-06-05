@@ -37,6 +37,9 @@ https://developers.google.com/fonts/docs/getting_started?hl=pt-br
 - Markdown Cheat Sheet (a raiz do site também é muito boa):
 https://www.markdownguide.org/cheat-sheet/
 
+- Estilizando suas bordas com elementos CSS
+https://www.alura.com.br/artigos/css-border-estilizando-bordas-elementos-css
+
 
 
 ### Plugins Interessantes (testados):<br>
