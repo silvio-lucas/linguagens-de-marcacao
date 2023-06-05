@@ -18,6 +18,12 @@ https://stackoverflow.com/questions/9725160/aborting-commit-due-to-empty-commit-
 - Reset CSS e Normalize
 https://www.alura.com.br/artigos/o-que-e-reset-css
 
+- Guia de unidades no CSS
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
+
+- Curso: Flexbox e layouts responsivos
+https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos
+
 
 # Plugins Interessantes (testados):<br>
 
