@@ -34,6 +34,7 @@ https://origamid.com/projetos/flexbox-guia-completo/
 https://developers.google.com/fonts/docs/getting_started?hl=pt-br
 
 
+
 # Plugins Interessantes (testados):<br>
 
 - Vscode icons: Cria icones nos arquivos de acordo com a tecnologia que for utilizada no projeto;<br>
