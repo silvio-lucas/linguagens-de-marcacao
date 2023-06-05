@@ -13,7 +13,7 @@ https://stackoverflow.com/questions/72945402/vs-code-git-extension-errors-and-di
 https://stackoverflow.com/questions/9725160/aborting-commit-due-to-empty-commit-message (precisa inserir algum comentário durante o COMIT, senão não funciona) <br> <br>
 
 
-# Links Interessantes:
+## Links Interessantes:
 
 - Reset CSS e Normalize
 https://www.alura.com.br/artigos/o-que-e-reset-css
@@ -35,7 +35,7 @@ https://developers.google.com/fonts/docs/getting_started?hl=pt-br
 
 
 
-# Plugins Interessantes (testados):<br>
+## Plugins Interessantes (testados):<br>
 
 - Vscode icons: Cria icones nos arquivos de acordo com a tecnologia que for utilizada no projeto;<br>
 - Live server: Servidor web que fica localizado na parte inferior da tela do Vscode - não precisa recarregar o navegador para ver o resultado das modificações feitas;<br>
