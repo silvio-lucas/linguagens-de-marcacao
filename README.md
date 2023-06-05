@@ -24,6 +24,12 @@ https://www.alura.com.br/artigos/guia-de-unidades-no-css
 - Curso: Flexbox e layouts responsivos
 https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos
 
+- A complete guide to Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+- Flexbox: Guia Completo
+https://origamid.com/projetos/flexbox-guia-completo/
+
 
 # Plugins Interessantes (testados):<br>
 
